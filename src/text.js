@@ -1,1 +1,1 @@
-// text generation demo
+// text generation example
